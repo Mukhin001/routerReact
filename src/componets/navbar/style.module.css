@@ -1,0 +1,22 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+ul {
+    display: flex;
+    gap: 30px;
+}
+
+li {
+    list-style-type:upper-roman;
+}
+
+.activ {
+    border-bottom: 2px solid blueviolet;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
